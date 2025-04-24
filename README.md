@@ -4,17 +4,17 @@ visualization into 3 parts - Overall Sales, Region and State , and Categories an
 
 # Objectives to do
 
--To transform messy, inconsistent sales data into a clean, analysis-ready format.
--To perform **Exploratory Data Analysis (EDA)** and uncover sales trends and key metrics by visualizations.
+- To transform messy, inconsistent sales data into a clean, analysis-ready format.
+- To perform **Exploratory Data Analysis (EDA)** and uncover sales trends and key metrics by visualizations.
 
 ## Tools & Technologies used for the Project.
 
--**Power BI**
--**Power Query**
--**Measures**
+- **Power BI**
+- **Power Query**
+- **Measures**
 
 ## Insights Extracted
 
---The category with the highest profit is of Technology
---The total revenue sales was $2.3 million.
--- The total Profit was $286.4K.
+- The category with the highest profit is of Technology
+- The total revenue sales was $2.3 million.
+- The total Profit was $286.4K.
